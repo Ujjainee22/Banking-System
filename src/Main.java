@@ -15,7 +15,7 @@ class BankList_and_operation
         int cont;
         cont = sc.nextInt();
         if (cont == 1)
-            System.out.println("Sucessfully loged in");
+            System.out.println("Successfully logged in");
         else
         {
             System.out.println("Failed!");
