@@ -1,6 +1,7 @@
+Banking System – Java
 
-Calculator Application using Java 
+A console-based banking system that allows users to perform transactions such as balance checks, deposits, and withdrawals, while also displaying bank branch details like address, IFSC code, and interest rates based on user selection. The project incorporates exception handling and input validation for a robust user experience.
 
-This project is a feature-rich calculator developed in Java that supports both basic arithmetic operations (addition, subtraction, multiplication, and division) and advanced functions, including square root calculation, exponentiation, and memory storage. The calculator was built using Event-Driven Programming and incorporates Exception Handling to ensure robust error management.
-This project showcases key programming skills such as Object-Oriented Programming (OOP), mathematical algorithm implementation, and efficient error handling.  
+Technologies: Java, OOP, Exception Handling
+Skills: Java Programming, OOP, Error Handling, File Handling
 
